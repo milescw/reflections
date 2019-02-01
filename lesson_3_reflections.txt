@@ -17,3 +17,9 @@ What is the benefit of having a copy of the last known state of the remote store
 	The benefit of having a compy of the last known state of the remore stored locally is that you know
 	that you have the latest copy to work with. This help ensure you are working with the most update
 	source.  This might also help with merge changes going forward, minimizing the necessary changes.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Collaboration without Git or GitHub would be difficult and cumbersome.  Collaborators would need to devise
+	a way to keep track of file changes and figure out a way to merge changes together.  It might be easier because
+	users would not have to conform to Git or GitHub's way.  It would be harder becuase Git and GitHub tools would not be available.  I think overall, it would be easier to use Git and GitHub as opposed to not using.
